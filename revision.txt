@@ -1,1 +1,1 @@
-Revision 193: Fixed bug 1400 - Lack of error reporting for glyph rendering errors
+Revision 194: Updated to version 2.0.12
