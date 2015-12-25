@@ -1,1 +1,1 @@
-Revision 95: Fixed bug #230\nOpenWatcom Win32 project contributed by Marc Peter
+Revision 96: Updated MPW Makefile to build shared library
