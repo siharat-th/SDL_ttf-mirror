@@ -1,1 +1,1 @@
-Revision 90: sdl-config doesn't include the OpenGL library in --libs
+Revision 91: Bumped the version number to 2.0.8
