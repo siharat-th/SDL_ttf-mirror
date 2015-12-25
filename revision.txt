@@ -1,1 +1,1 @@
-Revision 182: Switched back to the normal framework name, but the bundle identifier has no underscores, so they'll pass the Apple Store checks
+Revision 183: Updated Info.plist with the correct bundle identifier
