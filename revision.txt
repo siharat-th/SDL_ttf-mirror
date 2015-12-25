@@ -1,1 +1,1 @@
-Revision 113: Added version.rc to the make dist target.
+Revision 114: Use rpmbuild instead of older versions of rpm
