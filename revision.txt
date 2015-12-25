@@ -1,1 +1,1 @@
-Revision 150: Fixed hinting test case
+Revision 151: Use RW_SEEK constants for RWseek()
