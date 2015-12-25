@@ -1,1 +1,1 @@
-Revision 226: Updated debian files to be consistent across SDL packages
+Revision 227: SDL_ttf
