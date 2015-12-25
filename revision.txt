@@ -1,1 +1,1 @@
-Revision 105: Updated default cross-compile prefix for new cross-compile toolchain
+Revision 106: Updated acinclude.m4 to fix warning "serial number must appear before any macro definition"
