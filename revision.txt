@@ -1,1 +1,1 @@
-Revision 240: Updated to the latest version of FreeType and included it in the external directory for easy building.
+Revision 241: Added FreeType copyright blurb to the documentation.
