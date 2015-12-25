@@ -1,1 +1,1 @@
-Revision 110: Fixed bug #190
+Revision 111: I don't think we support the alpha anymore.
