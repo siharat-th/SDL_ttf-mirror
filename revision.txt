@@ -1,1 +1,1 @@
-Revision 32: showfont conflicts with the kbd package ... don't install it.
+Revision 33: Sam Lantinga - Sun Dec  1 18
