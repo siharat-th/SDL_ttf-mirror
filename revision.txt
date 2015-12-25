@@ -1,1 +1,1 @@
-Revision 149: Adam Strzelecki - Wed Oct 21 21
+Revision 150: Fixed hinting test case
