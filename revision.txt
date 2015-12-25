@@ -1,1 +1,1 @@
-Revision 187: Updated with a 64-bit FreeType DLL that's dynamically linked against zlib1.dll
+Revision 188: Fixed name of framework in example program
