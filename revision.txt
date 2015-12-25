@@ -1,1 +1,1 @@
-Revision 279: Added missing files from the FreeType installation
+Revision 280: Updated Visual Studio projects
