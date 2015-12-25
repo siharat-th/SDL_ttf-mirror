@@ -1,1 +1,1 @@
-Revision 146: Added the pkg-config files to the RPM
+Revision 147: Fixed uninitialized variables
