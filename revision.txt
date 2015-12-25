@@ -1,1 +1,1 @@
-Revision 199: Updated framework project for SDL2
+Revision 200: RenderClear() is more effecient than FillRect(NULL)
