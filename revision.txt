@@ -1,1 +1,1 @@
-Revision 112: Added support for building version.rc, updated copyright date.
+Revision 113: Added version.rc to the make dist target.
