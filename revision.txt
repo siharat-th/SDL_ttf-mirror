@@ -1,1 +1,1 @@
-Revision 46: Updated Visual C++ projects
+Revision 47: *** empty log message ***
