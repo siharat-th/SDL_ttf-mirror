@@ -1,1 +1,1 @@
-Revision 217: Switched the default code path to be UTF-8
+Revision 218: Don't install the static library, search for the framework in the application bundle Frameworks directory.
