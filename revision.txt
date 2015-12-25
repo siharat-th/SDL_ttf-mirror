@@ -1,1 +1,1 @@
-Revision 225: Added debian packaging for SDL2_ttf
+Revision 226: Updated debian files to be consistent across SDL packages
