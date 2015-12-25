@@ -1,1 +1,1 @@
-Revision 37: *** empty log message ***
+Revision 38: Allow showfont to test various byte ordering of UNICODE text
