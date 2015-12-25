@@ -1,1 +1,1 @@
-Revision 221: Use new API to get the file size without seeking
+Revision 222: Wrap lines on line endings
