@@ -1,1 +1,1 @@
-Revision 36: Removed showfont from the installed files
+Revision 37: *** empty log message ***
