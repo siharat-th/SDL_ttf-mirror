@@ -1,1 +1,1 @@
-Revision 165: Added dependencies to glfont target
+Revision 166: Ozkan Sezer to slouken
