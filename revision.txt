@@ -1,1 +1,1 @@
-Revision 257: Fixed bug 1401 - Debian patch
+Revision 258: Updated for SDL 2.0.1
