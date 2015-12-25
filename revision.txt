@@ -1,1 +1,1 @@
-Revision 237: Make sure the framework version matches the version of the dylib built from command line.
+Revision 238: Updated Visual Studio projects
