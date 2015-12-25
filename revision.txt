@@ -1,1 +1,1 @@
-Revision 249: Fixed bug 1976 - SDL2.m4 shares same variables as SDL.m4 so they cache values
+Revision 250: Added code signature step to Framework build process
