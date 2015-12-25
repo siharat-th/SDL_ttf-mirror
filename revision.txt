@@ -1,1 +1,1 @@
-Revision 251: Fixed bug 2000 - The framework INSTALL_PATH still uses @executable_path
+Revision 252: Ran autogen.sh after updating sdl2.m4
