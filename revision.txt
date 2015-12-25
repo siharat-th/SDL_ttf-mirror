@@ -1,1 +1,1 @@
-Revision 236: Updated Info.plist for new version
+Revision 237: Make sure the framework version matches the version of the dylib built from command line.
