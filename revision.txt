@@ -1,1 +1,1 @@
-Revision 100: Corrected SDK path in gcc-fat.sh
+Revision 101: Removed code that relies on FreeType internals in SDL_ttf.
