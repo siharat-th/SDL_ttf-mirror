@@ -1,1 +1,1 @@
-Revision 166: Ozkan Sezer to slouken
+Revision 167: Fixed bug 1088 (Broken cache of glyphs [patch])
