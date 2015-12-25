@@ -1,1 +1,1 @@
-Revision 246: Updated the name of the copyright file
+Revision 247: Updated Debian version to match release version
