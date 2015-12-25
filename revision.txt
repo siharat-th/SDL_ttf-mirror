@@ -1,1 +1,1 @@
-Revision 205: Don't crash if passed a NULL font file
+Revision 206: Updated Visual Studio project for SDL2
