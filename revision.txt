@@ -1,1 +1,1 @@
-Revision 284: Added rules to ignore Xcode build products
+Revision 285: Fixed bug 3040 - remove ftccache.c from iOS project
