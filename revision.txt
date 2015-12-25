@@ -1,1 +1,1 @@
-Revision 250: Added code signature step to Framework build process
+Revision 251: Fixed bug 2000 - The framework INSTALL_PATH still uses @executable_path
