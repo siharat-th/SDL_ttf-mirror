@@ -1,1 +1,1 @@
-Revision 196: Removed old unsupported project files
+Revision 197: Switched from SDL_ttf to SDL2_ttf
