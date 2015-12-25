@@ -1,1 +1,1 @@
-Revision 83: Renamed gcc-fat to gcc-fat.sh, added CHANGES entry
+Revision 84: -1
