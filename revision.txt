@@ -1,1 +1,1 @@
-Revision 170: Happy New Year!
+Revision 171: Updated the README with the new licensing terms
