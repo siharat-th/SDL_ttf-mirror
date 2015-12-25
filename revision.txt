@@ -1,1 +1,1 @@
-Revision 228: Added the debian directory and standardized the install pattern
+Revision 229: Updated spacing for the showfont example
