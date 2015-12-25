@@ -1,1 +1,1 @@
-Revision 222: Wrap lines on line endings
+Revision 223: Updated build settings to use standard architectures
