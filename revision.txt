@@ -1,1 +1,1 @@
-Revision 206: Updated Visual Studio project for SDL2
+Revision 207: Updated iOS project to build SDL 2.0 library
