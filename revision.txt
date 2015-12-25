@@ -1,1 +1,1 @@
-Revision 243: Improved include paths for projects using SDL on Android
+Revision 244: Fixed bug 1931 - Regression
