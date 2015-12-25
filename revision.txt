@@ -1,1 +1,1 @@
-Revision 176: Updated the Windows build to
+Revision 177: Updated the project for release.
