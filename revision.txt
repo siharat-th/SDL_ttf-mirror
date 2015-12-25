@@ -1,1 +1,1 @@
-Revision 103: Workaround for Cygwin alloca() nastiness.
+Revision 104: Fixed bug in solid bold glyph rendering (thanks Roy!)
