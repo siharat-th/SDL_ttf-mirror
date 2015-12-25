@@ -1,1 +1,1 @@
-Revision 136: Fixed bug #522
+Revision 137: Updated libtool to version 2.2.6a
