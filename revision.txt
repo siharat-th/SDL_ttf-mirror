@@ -1,1 +1,1 @@
-Revision 101: Removed code that relies on FreeType internals in SDL_ttf.
+Revision 102: Const-correctness patches for SDL_ttf.
