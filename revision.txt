@@ -1,1 +1,1 @@
-Revision 88: Fixed bug #51
+Revision 89: Fixed execv warning when libtool creates wrapper executables
