@@ -1,1 +1,1 @@
-Revision 86: Added support for C++ and assembly files, and source in subdirectories
+Revision 87: Don't add NONE/bin to the path - inexplicably fixes building on mingw+msys, apparently
