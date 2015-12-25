@@ -1,1 +1,1 @@
-Revision 91: Bumped the version number to 2.0.8
+Revision 92: Updated Visual C++ project.
