@@ -1,1 +1,1 @@
-Revision 44: Oops, always compile on different platforms before release.
+Revision 45: Darrell updated the MacOS X projects
