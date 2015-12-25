@@ -1,1 +1,1 @@
-Revision 259: Fixed compiler warnings
+Revision 260: Fixed bug 2237 - Add Support For Visual Studio 2013
