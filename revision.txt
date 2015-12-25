@@ -1,1 +1,1 @@
-Revision 29: Pete Shinners - Tue Sep  3 10
+Revision 30: Added shared library support for MacOS X
