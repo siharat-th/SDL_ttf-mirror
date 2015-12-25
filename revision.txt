@@ -1,1 +1,1 @@
-Revision 93: Updated Xcode projects from Eric Wing
+Revision 94: Removed use of atexit()
