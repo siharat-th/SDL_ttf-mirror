@@ -1,1 +1,1 @@
-Revision 252: Ran autogen.sh after updating sdl2.m4
+Revision 253: Updated documentation names for RPM
