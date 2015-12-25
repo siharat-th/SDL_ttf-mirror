@@ -1,1 +1,1 @@
-Revision 282: Removed dependencies on standard C runtime
+Revision 283: Explicitly use only the SSE instruction set for maximum CPU compatibility
