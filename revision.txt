@@ -1,1 +1,1 @@
-Revision 154: Fixed bug #973
+Revision 155: Copy and paste error
