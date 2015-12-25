@@ -1,1 +1,1 @@
-Revision 183: Updated Info.plist with the correct bundle identifier
+Revision 184: Moved external frameworks to the "Frameworks" directory for consistency
