@@ -1,1 +1,1 @@
-Revision 153: update tags
+Revision 154: Fixed bug #973
