@@ -1,1 +1,1 @@
-Revision 272: Use xcrun to find CpMac
+Revision 273: Fixed bug 2470 - bug rendering a string starting with glyph with negative minx, in TTF_RenderUTF8_Shaded
