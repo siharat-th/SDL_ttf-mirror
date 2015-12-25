@@ -1,1 +1,1 @@
-Revision 89: Fixed execv warning when libtool creates wrapper executables
+Revision 90: sdl-config doesn't include the OpenGL library in --libs
