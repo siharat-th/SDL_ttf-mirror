@@ -1,1 +1,1 @@
-Revision 72: Replace config.guess and config.sub by same updated version as in current SDL12 subdir, for cross-compilation
+Revision 73: Date
