@@ -1,1 +1,1 @@
-Revision 102: Const-correctness patches for SDL_ttf.
+Revision 103: Workaround for Cygwin alloca() nastiness.
