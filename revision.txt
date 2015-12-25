@@ -1,1 +1,1 @@
-Revision 158: Added Android Makefile to create an SDL_ttf shared library
+Revision 159: Include the Android Makefile in the distribution files
