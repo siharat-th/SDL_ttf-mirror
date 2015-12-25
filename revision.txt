@@ -1,1 +1,1 @@
-Revision 97: Updated RPM spec file with License keyword
+Revision 98: Don't crash when closing NULL
