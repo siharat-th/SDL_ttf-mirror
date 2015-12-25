@@ -1,1 +1,1 @@
-Revision 114: Use rpmbuild instead of older versions of rpm
+Revision 115: Updated Xcode project with FreeType 2.3.5
