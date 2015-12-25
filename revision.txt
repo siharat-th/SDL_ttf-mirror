@@ -1,1 +1,1 @@
-Revision 34: *** empty log message ***
+Revision 35: Fixed a problem with dlltool when building under MSYS on Windows
