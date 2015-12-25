@@ -1,1 +1,1 @@
-Revision 184: Moved external frameworks to the "Frameworks" directory for consistency
+Revision 185: Moved external libraries into the "external" directory and added x64 build configuration.
