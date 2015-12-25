@@ -1,1 +1,1 @@
-Revision 244: Fixed bug 1931 - Regression
+Revision 245: Updated Debian docs list with README.txt rename
