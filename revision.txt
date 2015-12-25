@@ -1,1 +1,1 @@
-Revision 268: Fixed format warnings
+Revision 269: Fixed bug 2572 - TTF_GetFontKerningSize issue
