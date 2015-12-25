@@ -1,1 +1,1 @@
-Revision 238: Updated Visual Studio projects
+Revision 239: Added VS2010 and VS2012 projects
