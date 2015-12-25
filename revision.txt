@@ -1,1 +1,1 @@
-Revision 122: Updated copyright date
+Revision 123: Updated config.guess and config.sub
