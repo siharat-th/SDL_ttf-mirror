@@ -1,1 +1,1 @@
-Revision 269: Fixed bug 2572 - TTF_GetFontKerningSize issue
+Revision 270: Fixed bug 2574 - Doesn't load non-scalable fonts
