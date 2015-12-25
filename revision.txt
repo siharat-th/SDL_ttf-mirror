@@ -1,1 +1,1 @@
-Revision 77: Use AC_CANONICAL_HOST instead of AC_CANONICAL_SYSTEM
+Revision 78: -1
