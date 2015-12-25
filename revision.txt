@@ -1,1 +1,1 @@
-Revision 277: WinRT
+Revision 278: Moved code signature step to after the framework build step is complete, and don't hardcode the codesign identity
