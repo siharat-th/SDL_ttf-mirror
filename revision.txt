@@ -1,1 +1,1 @@
-Revision 219: Compile FreeType into SDL_ttf on Android, to simplify build process
+Revision 220: FT_Set_Pixel_Sizes() sets width and height, not height and width
