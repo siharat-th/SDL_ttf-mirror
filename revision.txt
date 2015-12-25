@@ -1,1 +1,1 @@
-Revision 39: Sam Lantinga - Mon Feb 10 05
+Revision 40: The iconv macro isn't available on many systems... no worries.
