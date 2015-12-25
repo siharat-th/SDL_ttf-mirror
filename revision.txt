@@ -1,1 +1,1 @@
-Revision 202: Switched the SDL 2 autoconf macro to AM_PATH_SDL2
+Revision 203: Fixed bug 1531
