@@ -1,1 +1,1 @@
-Revision 274: Updated config.guess and config.sub with NaCl configuration
+Revision 275: Fixed code signing release frameworks
