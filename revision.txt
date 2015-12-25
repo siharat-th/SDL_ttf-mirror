@@ -1,1 +1,1 @@
-Revision 230: Cleaned up whitespace for the next release
+Revision 231: Renamed documentation files to .txt and converted them to DOS line endings so they would open properly on all systems.
