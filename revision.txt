@@ -1,1 +1,1 @@
-Revision 116: Added Visual Studio 8 project
+Revision 117: Switched afxres.h to winresrc.h
