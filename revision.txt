@@ -1,1 +1,1 @@
-Revision 24: *** empty log message ***
+Revision 25: Sam Lantinga - Sat Aug 24 22
