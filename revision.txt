@@ -1,1 +1,1 @@
-Revision 203: Fixed bug 1531
+Revision 204: Missed a spot where we should close the font source
