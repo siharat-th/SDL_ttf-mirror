@@ -1,1 +1,1 @@
-Revision 242: Make sure we include the external directory when building the release archive
+Revision 243: Improved include paths for projects using SDL on Android
