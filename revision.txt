@@ -1,1 +1,1 @@
-Revision 271: Fixed bug 2333 - Linking SDL2_ttf on iOS platform
+Revision 272: Use xcrun to find CpMac
