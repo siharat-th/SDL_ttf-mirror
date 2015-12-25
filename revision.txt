@@ -1,1 +1,1 @@
-Revision 267: Made Win[Phone] 8.1 project file names more consistent with 8.0 counterparts
+Revision 268: Fixed format warnings
