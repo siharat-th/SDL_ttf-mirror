@@ -1,1 +1,1 @@
-Revision 79: Xcode 2.2.1 is the supported baseline now.
+Revision 80: Updated libtool to version 1.5.22
