@@ -1,1 +1,1 @@
-Revision 31: *** empty log message ***
+Revision 32: showfont conflicts with the kbd package ... don't install it.
