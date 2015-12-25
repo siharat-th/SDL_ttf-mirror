@@ -1,1 +1,1 @@
-Revision 107: Split acinclude.m4 into its component parts for easy updating
+Revision 108: Updated version to 2.0.9
