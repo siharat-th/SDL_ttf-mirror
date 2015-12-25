@@ -1,1 +1,1 @@
-Revision 1: *** empty log message ***
+Revision 2: Bumped version to 2.0.4
