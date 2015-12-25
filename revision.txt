@@ -1,1 +1,1 @@
-Revision 124: Fixed compiling with SDL 1.3
+Revision 125: Fixed bug #767
