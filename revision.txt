@@ -1,1 +1,1 @@
-Revision 151: Use RW_SEEK constants for RWseek()
+Revision 152: Loïc LAMBERT
