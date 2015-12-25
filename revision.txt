@@ -1,1 +1,1 @@
-Revision 68: Eric Wing contributed Xcode projects
+Revision 69: Don't search the X11 development path for freetype, since we include it.
