@@ -1,1 +1,1 @@
-Revision 156: Fixed bug #970
+Revision 157: Added tag release-2.0.10 for changeset d8d6a6d3cc73
