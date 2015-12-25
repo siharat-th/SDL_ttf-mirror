@@ -1,1 +1,1 @@
-Revision 7: Sam Lantinga - Wed Nov 21 23
+Revision 8: Don't use snprintf - it's not portable.
