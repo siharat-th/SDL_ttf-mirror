@@ -1,1 +1,1 @@
-Revision 81: Added a gcc wrapper script to create Mac OS X Universal binaries
+Revision 82: Added gcc-fat to the dist archives
