@@ -1,1 +1,1 @@
-Revision 138: Update config.guess and config.sub
+Revision 139: pkg-config replaced sdl-config in these cases.
