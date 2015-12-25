@@ -1,1 +1,1 @@
-Revision 265: Updated iOS deployment target to iOS 5.1
+Revision 266: WinRT
