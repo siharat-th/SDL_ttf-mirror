@@ -1,1 +1,1 @@
-Revision 173: Somehow I missed adding the VisualC directory when I removed the zip.
+Revision 174: Fixed bug 1279 - Apps with SDL_* frameworks get rejected from Mac App Store
