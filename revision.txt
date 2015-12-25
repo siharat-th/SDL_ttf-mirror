@@ -1,1 +1,1 @@
-Revision 285: Fixed bug 3040 - remove ftccache.c from iOS project
+Revision 286: Updated to latest version of Xcode
