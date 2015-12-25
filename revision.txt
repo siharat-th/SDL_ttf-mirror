@@ -1,1 +1,1 @@
-Revision 111: I don't think we support the alpha anymore.
+Revision 112: Added support for building version.rc, updated copyright date.
