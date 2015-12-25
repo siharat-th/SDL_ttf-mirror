@@ -1,1 +1,1 @@
-Revision 171: Updated the README with the new licensing terms
+Revision 172: Corrected the date in the copyright message
