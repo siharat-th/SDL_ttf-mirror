@@ -1,1 +1,1 @@
-Revision 142: I am integrating the great SDL and the SDL_ttf libraries in a Java project I work on. It's a little to early to take about this project, but I had a new need on SDL_ttf, so I did a few changes.
+Revision 143: Eric Wing to Sam
