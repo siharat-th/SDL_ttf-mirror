@@ -1,1 +1,1 @@
-Revision 234: Updated the Mac OS X archive README with the new version and license
+Revision 235: Updated gcc-fat.sh for Mac OS X 10.8
