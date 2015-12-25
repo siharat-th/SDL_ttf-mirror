@@ -1,1 +1,1 @@
-Revision 254: Added tag release_2.0.12 for changeset df9d0e8ef4db
+Revision 255: Fixed the tag name for the SDL 2.0 release
