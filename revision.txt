@@ -1,1 +1,1 @@
-Revision 135: Updated version for mingw32 compiler
+Revision 136: Fixed bug #522
