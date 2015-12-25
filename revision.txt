@@ -1,1 +1,1 @@
-Revision 62: Fixed compiling with new versions of FreeType
+Revision 63: Date
