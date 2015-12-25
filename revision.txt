@@ -1,1 +1,1 @@
-Revision 73: Date
+Revision 74: This library is now available under the LGPL 2.1, the major change of which
