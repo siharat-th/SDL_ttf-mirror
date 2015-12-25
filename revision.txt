@@ -1,1 +1,1 @@
-Revision 241: Added FreeType copyright blurb to the documentation.
+Revision 242: Make sure we include the external directory when building the release archive
