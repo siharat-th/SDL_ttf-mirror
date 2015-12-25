@@ -1,1 +1,1 @@
-Revision 177: Updated the project for release.
+Revision 178: Added a release note calling out the Mac OS X framework name change
