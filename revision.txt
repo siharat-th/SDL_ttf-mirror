@@ -1,1 +1,1 @@
-Revision 167: Fixed bug 1088 (Broken cache of glyphs [patch])
+Revision 168: We add the whole Visual C directory, not the zip file to the dist archive.
