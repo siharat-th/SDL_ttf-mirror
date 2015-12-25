@@ -1,1 +1,1 @@
-Revision 229: Updated spacing for the showfont example
+Revision 230: Cleaned up whitespace for the next release
