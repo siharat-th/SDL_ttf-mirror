@@ -1,1 +1,1 @@
-Revision 157: Added tag release-2.0.10 for changeset d8d6a6d3cc73
+Revision 158: Added Android Makefile to create an SDL_ttf shared library
