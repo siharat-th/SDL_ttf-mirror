@@ -1,1 +1,1 @@
-Revision 40: The iconv macro isn't available on many systems... no worries.
+Revision 41: Handle BOM sequences inline and potentially do fewer malloc/free calls
