@@ -1,1 +1,1 @@
-Revision 55: Added some hints on what glyph metrics are
+Revision 56: Sam Lantinga - Sun Sep  7 20
