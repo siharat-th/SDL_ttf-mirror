@@ -1,1 +1,1 @@
-Revision 38: Allow showfont to test various byte ordering of UNICODE text
+Revision 39: Sam Lantinga - Mon Feb 10 05
