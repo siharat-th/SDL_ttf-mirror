@@ -1,1 +1,1 @@
-Revision 174: Fixed bug 1279 - Apps with SDL_* frameworks get rejected from Mac App Store
+Revision 175: Added configure to source control so it's possible to build directly from Mercurial
