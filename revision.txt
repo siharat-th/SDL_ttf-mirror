@@ -1,1 +1,1 @@
-Revision 60: Date
+Revision 61: Updated libtool and sdl support
