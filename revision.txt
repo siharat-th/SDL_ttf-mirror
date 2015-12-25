@@ -1,1 +1,1 @@
-Revision 21: *** empty log message ***
+Revision 22: Updated with FreeType 2.0, which has the best rendering quality
