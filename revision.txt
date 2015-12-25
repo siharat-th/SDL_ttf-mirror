@@ -1,1 +1,1 @@
-Revision 82: Added gcc-fat to the dist archives
+Revision 83: Renamed gcc-fat to gcc-fat.sh, added CHANGES entry
