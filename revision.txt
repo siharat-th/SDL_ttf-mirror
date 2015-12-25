@@ -1,1 +1,1 @@
-Revision 57: Sam Lantinga - Wed Nov 19 00
+Revision 58: Updated copyright information for 2004 (Happy New Year!)
