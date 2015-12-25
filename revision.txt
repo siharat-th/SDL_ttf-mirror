@@ -1,1 +1,1 @@
-Revision 108: Updated version to 2.0.9
+Revision 109: Updated CHANGES with the changes from the past year
