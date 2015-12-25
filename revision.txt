@@ -1,1 +1,1 @@
-Revision 54: *** empty log message ***
+Revision 55: Added some hints on what glyph metrics are
