@@ -1,1 +1,1 @@
-Revision 235: Updated gcc-fat.sh for Mac OS X 10.8
+Revision 236: Updated Info.plist for new version
