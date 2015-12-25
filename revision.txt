@@ -1,1 +1,1 @@
-Revision 220: FT_Set_Pixel_Sizes() sets width and height, not height and width
+Revision 221: Use new API to get the file size without seeking
