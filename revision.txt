@@ -1,1 +1,1 @@
-Revision 192: Added third-party source archives to the SDL website
+Revision 193: Fixed bug 1400 - Lack of error reporting for glyph rendering errors
