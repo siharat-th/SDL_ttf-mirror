@@ -1,1 +1,1 @@
-Revision 125: Fixed bug #767
+Revision 126: Updated gcc-fat.sh for Snow Leopard with both 32-bit and 64-bit architectures
