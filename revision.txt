@@ -1,1 +1,1 @@
-Revision 239: Added VS2010 and VS2012 projects
+Revision 240: Updated to the latest version of FreeType and included it in the external directory for easy building.
