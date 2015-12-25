@@ -1,1 +1,1 @@
-Revision 197: Switched from SDL_ttf to SDL2_ttf
+Revision 198: Fixed creating an OpenGL texture from a surface
