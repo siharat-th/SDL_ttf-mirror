@@ -1,1 +1,1 @@
-Revision 233: Updated the "missing" script
+Revision 234: Updated the Mac OS X archive README with the new version and license
