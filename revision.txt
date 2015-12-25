@@ -1,1 +1,1 @@
-Revision 200: RenderClear() is more effecient than FillRect(NULL)
+Revision 201: Updated Android Makefile for SDL2
