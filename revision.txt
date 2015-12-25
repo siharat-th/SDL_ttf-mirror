@@ -1,1 +1,1 @@
-Revision 160: Erik Snoek to slouken
+Revision 161: Fixed function prototype
