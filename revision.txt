@@ -1,1 +1,1 @@
-Revision 186: Fixed import library location
+Revision 187: Updated with a 64-bit FreeType DLL that's dynamically linked against zlib1.dll
