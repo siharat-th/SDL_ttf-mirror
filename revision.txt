@@ -1,1 +1,1 @@
-Revision 208: Fixed building DMG on newer Xcode
+Revision 209: Don't install the library when creating an iOS app archive
