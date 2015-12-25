@@ -1,1 +1,1 @@
-Revision 117: Switched afxres.h to winresrc.h
+Revision 118: Added project dependencies
