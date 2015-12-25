@@ -1,1 +1,1 @@
-Revision 99: SDL_ttf
+Revision 100: Corrected SDK path in gcc-fat.sh
