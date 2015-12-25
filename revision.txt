@@ -1,1 +1,1 @@
-Revision 181: Updated Xcode project
+Revision 182: Switched back to the normal framework name, but the bundle identifier has no underscores, so they'll pass the Apple Store checks
