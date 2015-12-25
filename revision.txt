@@ -1,1 +1,1 @@
-Revision 281: Removed explicit setting of TargetMachine
+Revision 282: Removed dependencies on standard C runtime
