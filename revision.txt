@@ -1,1 +1,1 @@
-Revision 213: Fixed stack corruption in the wrapping text code.
+Revision 214: Find maximum line that will fit in width by stripping words off the end instead of adding words and hardcoding a space width.
