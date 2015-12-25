@@ -1,1 +1,1 @@
-Revision 175: Added configure to source control so it's possible to build directly from Mercurial
+Revision 176: Updated the Windows build to
