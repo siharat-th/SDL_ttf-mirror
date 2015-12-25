@@ -1,1 +1,1 @@
-Revision 253: Updated documentation names for RPM
+Revision 254: Added tag release_2.0.12 for changeset df9d0e8ef4db
