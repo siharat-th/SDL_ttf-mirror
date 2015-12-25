@@ -1,1 +1,1 @@
-Revision 256: Updated documentation file names
+Revision 257: Fixed bug 1401 - Debian patch
