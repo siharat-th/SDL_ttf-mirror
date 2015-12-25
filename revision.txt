@@ -1,1 +1,1 @@
-Revision 172: Corrected the date in the copyright message
+Revision 173: Somehow I missed adding the VisualC directory when I removed the zip.
