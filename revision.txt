@@ -1,1 +1,1 @@
-Revision 104: Fixed bug in solid bold glyph rendering (thanks Roy!)
+Revision 105: Updated default cross-compile prefix for new cross-compile toolchain
