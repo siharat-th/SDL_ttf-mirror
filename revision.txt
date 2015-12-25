@@ -1,1 +1,1 @@
-Revision 232: The documentation files are in the source directory.
+Revision 233: Updated the "missing" script
