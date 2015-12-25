@@ -1,1 +1,1 @@
-Revision 218: Don't install the static library, search for the framework in the application bundle Frameworks directory.
+Revision 219: Compile FreeType into SDL_ttf on Android, to simplify build process
