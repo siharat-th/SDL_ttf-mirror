@@ -1,1 +1,1 @@
-Revision 223: Updated build settings to use standard architectures
+Revision 224: Updated copyright year
