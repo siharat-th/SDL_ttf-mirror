@@ -1,1 +1,1 @@
-Revision 45: Darrell updated the MacOS X projects
+Revision 46: Updated Visual C++ projects
