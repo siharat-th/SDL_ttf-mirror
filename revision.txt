@@ -1,1 +1,1 @@
-Revision 41: Handle BOM sequences inline and potentially do fewer malloc/free calls
+Revision 42: *** empty log message ***
