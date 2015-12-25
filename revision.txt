@@ -1,1 +1,1 @@
-Revision 227: SDL_ttf
+Revision 228: Added the debian directory and standardized the install pattern
