@@ -1,1 +1,1 @@
-Revision 8: Don't use snprintf - it's not portable.
+Revision 9: *** empty log message ***
