@@ -1,1 +1,1 @@
-Revision 66: Needed a Multithreaded DLL version of FreeType
+Revision 67: *** empty log message ***
