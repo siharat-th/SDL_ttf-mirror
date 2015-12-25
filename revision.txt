@@ -1,1 +1,1 @@
-Revision 70: To
+Revision 71: Replace AC_CANONICAL_HOST and _TARGET by AC_CANONICAL_SYSTEM for cross-compilation
