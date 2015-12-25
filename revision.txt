@@ -1,1 +1,1 @@
-Revision 106: Updated acinclude.m4 to fix warning "serial number must appear before any macro definition"
+Revision 107: Split acinclude.m4 into its component parts for easy updating
