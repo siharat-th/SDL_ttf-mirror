@@ -1,1 +1,1 @@
-Revision 247: Updated Debian version to match release version
+Revision 248: Fixed bug
