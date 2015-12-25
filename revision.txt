@@ -1,1 +1,1 @@
-Revision 164: Added iOS Xcode project. Still needs fixes for test programs.
+Revision 165: Added dependencies to glfont target
