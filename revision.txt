@@ -1,1 +1,1 @@
-Revision 139: pkg-config replaced sdl-config in these cases.
+Revision 140: Adam Strzelecki to SDL
