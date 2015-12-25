@@ -1,1 +1,1 @@
-Revision 123: Updated config.guess and config.sub
+Revision 124: Fixed compiling with SDL 1.3
