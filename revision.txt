@@ -1,1 +1,1 @@
-Revision 75: Date
+Revision 76: ICONV_CONST isn't available since iconv.m4 isn't included (yet?)
