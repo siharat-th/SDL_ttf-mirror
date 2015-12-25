@@ -1,1 +1,1 @@
-Revision 214: Find maximum line that will fit in width by stripping words off the end instead of adding words and hardcoding a space width.
+Revision 215: Fixed invalid free crash bug
