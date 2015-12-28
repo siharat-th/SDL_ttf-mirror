@@ -365,6 +365,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 11;
 				DYLIB_CURRENT_VERSION = 11.2;
 				FRAMEWORK_VERSION = A;
+				HEADER_SEARCH_PATHS = (
+					"$(HEADER_SEARCH_PATHS_QUOTED)",
+					"$(HOME)/Library/Frameworks/SDL2.framework/Headers",
+					/Library/Frameworks/SDL2.framework/Headers,
+					"$(SDL_ROOT)/include",
+				);
 				INFOPLIST_FILE = "Info-Framework.plist";
 				INSTALL_PATH = "@rpath";
 				LD_RUNPATH_SEARCH_PATHS = "@loader_path/Frameworks";
@@ -380,6 +386,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 11;
 				DYLIB_CURRENT_VERSION = 11.2;
 				FRAMEWORK_VERSION = A;
+				HEADER_SEARCH_PATHS = (
+					"$(HEADER_SEARCH_PATHS_QUOTED)",
+					"$(HOME)/Library/Frameworks/SDL2.framework/Headers",
+					/Library/Frameworks/SDL2.framework/Headers,
+					"$(SDL_ROOT)/include",
+				);
 				INFOPLIST_FILE = "Info-Framework.plist";
 				INSTALL_PATH = "@rpath";
 				LD_RUNPATH_SEARCH_PATHS = "@loader_path/Frameworks";
