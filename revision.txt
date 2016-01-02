@@ -1,1 +1,1 @@
-Revision 286: Updated to latest version of Xcode
+Revision 287: Updated copyright to 2016
